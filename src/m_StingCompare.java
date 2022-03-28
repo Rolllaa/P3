@@ -1,4 +1,4 @@
-public class M_StingCompare {
+public class m_StingCompare {
     public static void main(String[] args) {
         //membandingkam 2 buah string
         String str1 = "POLBENG";
